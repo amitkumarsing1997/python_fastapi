@@ -2,5 +2,6 @@ Lib/
 Scripts/
 __pycache__/
 python_fastapi/
+fastapi-env/
 pyvenv.cfg
 
