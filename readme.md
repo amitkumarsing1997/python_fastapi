@@ -12,4 +12,17 @@ for swagger ui use following command
 http://127.0.0.1:8000/docs
 
 
+
+//for crypt purpose
 pip install "passlib[bcrypt]"
+
+
+// for authentication purpos
+pip install python-multipart
+
+//for json web token
+pip install "python-jose[cryptoraphy]"
+
+//for secret key go for cmd 
+// and type below code
+//openssl rand -hex 32
